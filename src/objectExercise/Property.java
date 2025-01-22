@@ -5,7 +5,7 @@ public class Property {
 	private String lastName;
 	private String firstName;
 	private String type;
-	private  int price;
+	private int price;
 	
 	Property(String name, String lastName, String firstName, String type, int price) {
 		this.name = name;
